@@ -3,6 +3,8 @@ services:
     build: .
     ports:
       - "8080:8080"
+    env_file:
+      - .env.production
     volumes:
       - ./games.json:/app/games.json  # live-reload game data without rebuild
     restart: unless-stopped
