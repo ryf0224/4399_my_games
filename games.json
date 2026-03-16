@@ -1,0 +1,230 @@
+[
+  {
+    "id": 1,
+    "title": "Nebula Runner",
+    "category": "Action",
+    "description": "Blast through the cosmos in this heart-pounding endless space runner. Dodge asteroid fields, collect star crystals, and unlock powerful ship upgrades as you race deeper into the nebula. With procedurally generated levels and a pulsing synthwave soundtrack, every run feels fresh and exhilarating.",
+    "thumbnail": "https://picsum.photos/seed/nebularunner/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/nebularunner1/800/450",
+      "https://picsum.photos/seed/nebularunner2/800/450",
+      "https://picsum.photos/seed/nebularunner3/800/450"
+    ],
+    "rating": 4.8,
+    "plays": 1850000,
+    "tags": ["space", "endless runner", "sci-fi", "action", "upgrades"],
+    "difficulty": "Medium",
+    "featured": true,
+    "accent_color": "#7c3aed",
+    "video_embed_url": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 2,
+    "title": "Puzzle Kingdom",
+    "category": "Puzzle",
+    "description": "Embark on a grand medieval adventure where every door is locked and every treasure is guarded by a devious puzzle. Manipulate ancient mechanisms, decipher rune codes, and reroute magical energy flows across 80 hand-crafted levels. The kingdom's fate rests on your wits — can you outwit the sorcerer king?",
+    "thumbnail": "https://picsum.photos/seed/puzzlekingdom/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/puzzlekingdom1/800/450",
+      "https://picsum.photos/seed/puzzlekingdom2/800/450",
+      "https://picsum.photos/seed/puzzlekingdom3/800/450"
+    ],
+    "rating": 4.7,
+    "plays": 980000,
+    "tags": ["medieval", "puzzle", "logic", "adventure", "strategy"],
+    "difficulty": "Hard",
+    "featured": true,
+    "accent_color": "#059669",
+    "video_embed_url": "https://www.youtube.com/embed/9bZkp7q19f0"
+  },
+  {
+    "id": 3,
+    "title": "Turbo Drift",
+    "category": "Racing",
+    "description": "Light up the neon-drenched streets in the most intense street racing experience on the web. Master the art of the perfect drift to chain multipliers, outrun rival gangs, and upgrade your car from a rusty junker to an absolute beast. Five cities, 30 tracks, and an adrenaline-fueled story mode await.",
+    "thumbnail": "https://picsum.photos/seed/turbodrift/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/turbodrift1/800/450",
+      "https://picsum.photos/seed/turbodrift2/800/450",
+      "https://picsum.photos/seed/turbodrift3/800/450"
+    ],
+    "rating": 4.6,
+    "plays": 2000000,
+    "tags": ["racing", "neon", "drift", "cars", "street"],
+    "difficulty": "Medium",
+    "featured": true,
+    "accent_color": "#dc2626",
+    "video_embed_url": "https://www.youtube.com/embed/kJQP7kiw5Fk"
+  },
+  {
+    "id": 4,
+    "title": "Block Blast",
+    "category": "Arcade",
+    "description": "The classic falling-blocks formula reimagined with explosive combos and power-up blocks that shatter the grid. Stack smart, trigger chain reactions, and watch your score skyrocket as special blocks rain down. Compete against global leaderboard times in this endlessly satisfying arcade gem.",
+    "thumbnail": "https://picsum.photos/seed/blockblast/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/blockblast1/800/450",
+      "https://picsum.photos/seed/blockblast2/800/450",
+      "https://picsum.photos/seed/blockblast3/800/450"
+    ],
+    "rating": 4.4,
+    "plays": 1500000,
+    "tags": ["arcade", "blocks", "tetris", "classic", "highscore"],
+    "difficulty": "Easy",
+    "featured": false,
+    "accent_color": "#d97706",
+    "video_embed_url": null
+  },
+  {
+    "id": 5,
+    "title": "Dragon Quest Z",
+    "category": "Adventure",
+    "description": "A sweeping RPG epic where you lead a band of misfit heroes against the dragon overlord threatening all realms. Explore sprawling dungeons, forge legendary weapons, and make morally complex choices that reshape the world's fate. With 40+ hours of content and branching storylines, your legend is yours to write.",
+    "thumbnail": "https://picsum.photos/seed/dragonquestz/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/dragonquestz1/800/450",
+      "https://picsum.photos/seed/dragonquestz2/800/450",
+      "https://picsum.photos/seed/dragonquestz3/800/450"
+    ],
+    "rating": 4.9,
+    "plays": 750000,
+    "tags": ["RPG", "dragons", "fantasy", "quest", "adventure"],
+    "difficulty": "Hard",
+    "featured": false,
+    "accent_color": "#7c3aed",
+    "video_embed_url": "https://www.youtube.com/embed/OPf0YbXqDm0"
+  },
+  {
+    "id": 6,
+    "title": "Tower Defense X",
+    "category": "Strategy",
+    "description": "Command your arsenal of futuristic turrets against relentless waves of alien invaders across 25 increasingly brutal maps. Balance resource management with tactical tower placement to create impenetrable kill zones. Unlock elite towers and special abilities to handle the terrifying boss waves lurking ahead.",
+    "thumbnail": "https://picsum.photos/seed/towerdefensex/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/towerdefensex1/800/450",
+      "https://picsum.photos/seed/towerdefensex2/800/450",
+      "https://picsum.photos/seed/towerdefensex3/800/450"
+    ],
+    "rating": 4.5,
+    "plays": 620000,
+    "tags": ["strategy", "tower defense", "sci-fi", "waves", "tactical"],
+    "difficulty": "Hard",
+    "featured": false,
+    "accent_color": "#0891b2",
+    "video_embed_url": null
+  },
+  {
+    "id": 7,
+    "title": "Bubble Pop Mania",
+    "category": "Casual",
+    "description": "A joyful, colorful bubble shooter that's easy to pick up but impossible to put down. Aim carefully to match three or more bubbles of the same color, trigger spectacular chain reactions, and use crafty trick shots to clear tricky formations. With hundreds of levels and daily challenges, the fun never ends.",
+    "thumbnail": "https://picsum.photos/seed/bubblepopmania/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/bubblepopmania1/800/450",
+      "https://picsum.photos/seed/bubblepopmania2/800/450",
+      "https://picsum.photos/seed/bubblepopmania3/800/450"
+    ],
+    "rating": 4.2,
+    "plays": 1200000,
+    "tags": ["casual", "bubbles", "shooter", "colorful", "relaxing"],
+    "difficulty": "Easy",
+    "featured": false,
+    "accent_color": "#db2777",
+    "video_embed_url": null
+  },
+  {
+    "id": 8,
+    "title": "Snake Pro 3D",
+    "category": "Classic",
+    "description": "The timeless snake game reborn in a stunning 3D arena with dynamic camera angles and silky-smooth controls. Navigate treacherous mazes, consume glowing power orbs to grow, and avoid colliding with your ever-lengthening body as the pace intensifies. Unlockable skins and competitive leaderboards give the classic new life.",
+    "thumbnail": "https://picsum.photos/seed/snakepro3d/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/snakepro3d1/800/450",
+      "https://picsum.photos/seed/snakepro3d2/800/450",
+      "https://picsum.photos/seed/snakepro3d3/800/450"
+    ],
+    "rating": 4.3,
+    "plays": 890000,
+    "tags": ["classic", "snake", "3D", "retro", "arcade"],
+    "difficulty": "Easy",
+    "featured": false,
+    "accent_color": "#16a34a",
+    "video_embed_url": null
+  },
+  {
+    "id": 9,
+    "title": "2048 Galaxy",
+    "category": "Puzzle",
+    "description": "The addictive 2048 number-merging puzzle transported to a breathtaking galactic setting. Merge star systems, form nebulae, and ultimately create a supermassive black hole to win. With a zen ambient soundtrack and cosmic visual effects for every merge, this is the most beautiful version of 2048 ever made.",
+    "thumbnail": "https://picsum.photos/seed/2048galaxy/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/2048galaxy1/800/450",
+      "https://picsum.photos/seed/2048galaxy2/800/450",
+      "https://picsum.photos/seed/2048galaxy3/800/450"
+    ],
+    "rating": 4.1,
+    "plays": 430000,
+    "tags": ["puzzle", "2048", "space", "numbers", "zen"],
+    "difficulty": "Medium",
+    "featured": false,
+    "accent_color": "#9333ea",
+    "video_embed_url": null
+  },
+  {
+    "id": 10,
+    "title": "Cyber Jump",
+    "category": "Action",
+    "description": "Leap, wall-run, and slash through a dystopian cyberpunk megacity in this lightning-fast platformer. Master fluid movement mechanics to chain parkour combos, hack security systems mid-air, and outmaneuver corporate enforcers on every rooftop. The rain-soaked neon city is your playground — if you're good enough.",
+    "thumbnail": "https://picsum.photos/seed/cyberjump/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/cyberjump1/800/450",
+      "https://picsum.photos/seed/cyberjump2/800/450",
+      "https://picsum.photos/seed/cyberjump3/800/450"
+    ],
+    "rating": 4.6,
+    "plays": 560000,
+    "tags": ["cyberpunk", "platformer", "parkour", "action", "neon"],
+    "difficulty": "Hard",
+    "featured": false,
+    "accent_color": "#0284c7",
+    "video_embed_url": null
+  },
+  {
+    "id": 11,
+    "title": "Candy Match",
+    "category": "Casual",
+    "description": "Dive into a sugar-coated world of cascading candies and delightful match-3 madness. Swap and match luscious candies to create explosive combinations — striped candies, color bombs, and wrapped clusters send the board into spectacular chain-reaction chaos. Over 500 levels of pure sweet satisfaction.",
+    "thumbnail": "https://picsum.photos/seed/candymatch/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/candymatch1/800/450",
+      "https://picsum.photos/seed/candymatch2/800/450",
+      "https://picsum.photos/seed/candymatch3/800/450"
+    ],
+    "rating": 3.9,
+    "plays": 1750000,
+    "tags": ["casual", "match-3", "candy", "colorful", "puzzle"],
+    "difficulty": "Easy",
+    "featured": false,
+    "accent_color": "#ea580c",
+    "video_embed_url": null
+  },
+  {
+    "id": 12,
+    "title": "Space Invaders Z",
+    "category": "Classic",
+    "description": "The legendary space shooter returns with modern polish while keeping the iconic gameplay perfectly intact. Defend Earth against escalating alien armadas, collect power-ups to unleash devastating weapons, and survive the relentless boss assault ships. A loving tribute to the arcade golden age — now with online co-op.",
+    "thumbnail": "https://picsum.photos/seed/spaceinvadersz/400/240",
+    "screenshots": [
+      "https://picsum.photos/seed/spaceinvadersz1/800/450",
+      "https://picsum.photos/seed/spaceinvadersz2/800/450",
+      "https://picsum.photos/seed/spaceinvadersz3/800/450"
+    ],
+    "rating": 4.0,
+    "plays": 10000,
+    "tags": ["classic", "retro", "shooter", "arcade", "space"],
+    "difficulty": "Medium",
+    "featured": false,
+    "accent_color": "#4f46e5",
+    "video_embed_url": null
+  }
+]
